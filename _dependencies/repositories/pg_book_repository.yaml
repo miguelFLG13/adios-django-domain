@@ -1,0 +1,4 @@
+domain.repositories.pg_book_repository.PgBookRepository:
+    fqn: domain.repositories.pg_book_repository.PgBookRepository
+    args:
+        - '@domain.repositories.databases.pg_database.PgDatabase'

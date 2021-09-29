@@ -1,0 +1,2 @@
+domain.repositories.databases.pg_database.PgDatabase:
+    fqn: domain.repositories.databases.pg_database.PgDatabase
